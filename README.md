@@ -8,3 +8,4 @@ The aim is to test:
 * [ ] create repository
 * [ ] create issues
 * [ ] and do some stuff
+* [ ] experiments with features
